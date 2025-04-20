@@ -33,12 +33,11 @@ Looking for a specific word or topic? `search_notes(keyword)` helps you find all
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/smart-notes-manager.git
+   git clone https://github.com/AdenikeAwotunde/Smart-Notes-Manager.git
    cd smart-notes-manager
+   
 2. **Run the Applicaton**
-``` main.py
-
----
+``` main.py ```
 
 ## 🔍 Use Cases
 
@@ -58,7 +57,7 @@ Looking for a specific word or topic? `search_notes(keyword)` helps you find all
 
 ---
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute with attribution.
 
 ## 👤 Author
